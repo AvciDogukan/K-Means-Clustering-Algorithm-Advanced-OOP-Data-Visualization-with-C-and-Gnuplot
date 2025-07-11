@@ -1,0 +1,45 @@
+Cluster Values
+Cluster ID : 1, Center : (35.244,73.7913)
+Cluster ID : 2, Center : (33.6421,19.8171)
+Cluster ID : 3, Center : (85.8527,47.5173)
+Sample Values 
+Index : 0, x : 68.19, y : 45.44, Cluster : 3
+Index : 1, x : 68.12, y : 10.86, Cluster : 2
+Index : 2, x : 78.57, y : 67.1, Cluster : 3
+Index : 3, x : 36.64, y : 4.14, Cluster : 2
+Index : 4, x : 48.87, y : 65.18, Cluster : 1
+Index : 5, x : 50.98, y : 62.88, Cluster : 1
+Index : 6, x : 34.39, y : 8.51, Cluster : 2
+Index : 7, x : 28.04, y : 75.9, Cluster : 1
+Index : 8, x : 28.1, y : 84.87, Cluster : 1
+Index : 9, x : 45.03, y : 84.53, Cluster : 1
+Index : 10, x : 55.8, y : 17.76, Cluster : 2
+Index : 11, x : 93.67, y : 97.58, Cluster : 3
+Index : 12, x : 48.95, y : 79.95, Cluster : 1
+Index : 13, x : 95.36, y : 6.82, Cluster : 3
+Index : 14, x : 8.26, y : 17.95, Cluster : 2
+Index : 15, x : 11.39, y : 50.24, Cluster : 1
+Index : 16, x : 82.53, y : 52.47, Cluster : 3
+Index : 17, x : 37.46, y : 91.98, Cluster : 1
+Index : 18, x : 23.75, y : 31.19, Cluster : 2
+Index : 19, x : 54.32, y : 91.93, Cluster : 1
+Index : 20, x : 45.41, y : 21.41, Cluster : 2
+Index : 21, x : 6.97, y : 23.63, Cluster : 2
+Index : 22, x : 17.25, y : 38.54, Cluster : 2
+Index : 23, x : 49.49, y : 33.62, Cluster : 2
+Index : 24, x : 34.2, y : 48.33, Cluster : 1
+Index : 25, x : 96.47, y : 77.7, Cluster : 3
+Index : 26, x : 18.55, y : 2.76, Cluster : 2
+Index : 27, x : 77.14, y : 52.67, Cluster : 3
+Index : 28, x : 95.88, y : 8.32, Cluster : 3
+Index : 29, x : 24.67, y : 95.28, Cluster : 1
+Index : 30, x : 49.11, y : 26.22, Cluster : 2
+Index : 31, x : 14.71, y : 55.21, Cluster : 1
+Index : 32, x : 35.8, y : 72.62, Cluster : 1
+Index : 33, x : 2.48, y : 10.35, Cluster : 2
+Index : 34, x : 87.03, y : 42.51, Cluster : 3
+Index : 35, x : 45.23, y : 66.1, Cluster : 1
+Index : 36, x : 20.91, y : 81.87, Cluster : 1
+Index : 37, x : 84.49, y : 51.33, Cluster : 3
+Index : 38, x : 54.77, y : 30.5, Cluster : 2
+Index : 39, x : 85.05, y : 20.75, Cluster : 3
